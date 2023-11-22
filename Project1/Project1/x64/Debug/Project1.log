@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\not\source\repos\Project1\Project1\소스.cpp(61,18): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\not\source\repos\Project1\Project1\소스.cpp(61,23): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  Project1.vcxproj -> C:\Users\not\source\repos\Project1\x64\Debug\Project1.exe
